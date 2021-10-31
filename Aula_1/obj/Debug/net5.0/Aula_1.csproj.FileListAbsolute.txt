@@ -1,0 +1,16 @@
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\bin\Debug\net5.0\Aula_1.exe
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\bin\Debug\net5.0\Aula_1.deps.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\bin\Debug\net5.0\Aula_1.runtimeconfig.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\bin\Debug\net5.0\Aula_1.runtimeconfig.dev.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\bin\Debug\net5.0\Aula_1.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\bin\Debug\net5.0\ref\Aula_1.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\bin\Debug\net5.0\Aula_1.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\Aula_1.csproj.AssemblyReference.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\Aula_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\Aula_1.AssemblyInfoInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\Aula_1.AssemblyInfo.cs
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\Aula_1.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\Aula_1.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\ref\Aula_1.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\Aula_1.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Estudos\programação\dotnet\Aula_1\obj\Debug\net5.0\Aula_1.genruntimeconfig.cache
